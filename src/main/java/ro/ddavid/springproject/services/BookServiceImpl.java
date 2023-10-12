@@ -1,7 +1,7 @@
 package ro.ddavid.springproject.services;
 
 import org.springframework.stereotype.Service;
-import ro.ddavid.springproject.models.Book;
+import ro.ddavid.springproject.models.entities.Book;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

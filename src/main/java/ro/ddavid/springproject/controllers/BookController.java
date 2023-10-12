@@ -2,7 +2,7 @@ package ro.ddavid.springproject.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ro.ddavid.springproject.models.Book;
+import ro.ddavid.springproject.models.entities.Book;
 import ro.ddavid.springproject.services.BookService;
 
 import java.util.List;

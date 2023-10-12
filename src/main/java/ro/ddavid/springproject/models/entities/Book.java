@@ -1,4 +1,4 @@
-package ro.ddavid.springproject.models;
+package ro.ddavid.springproject.models.entities;
 
 import lombok.Data;
 
