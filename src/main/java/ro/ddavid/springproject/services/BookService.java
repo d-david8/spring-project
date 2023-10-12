@@ -1,6 +1,6 @@
 package ro.ddavid.springproject.services;
 
-import ro.ddavid.springproject.models.Book;
+import ro.ddavid.springproject.models.entities.Book;
 
 import java.util.List;
 import java.util.UUID;
